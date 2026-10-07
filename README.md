@@ -106,15 +106,6 @@ npm start
 
 ---
 
-## 🔑 Test Credentials
-
-You can register a new account on [http://localhost:4200/register](http://localhost:4200/register) or use the demo credentials:
-
-- **Email:** `kirtana@example.com`
-- **Password:** `password123`
-
----
-
 ## 🛠️ API Endpoints Summary
 
 | Method | Endpoint | Description |
@@ -126,6 +117,16 @@ You can register a new account on [http://localhost:4200/register](http://localh
 | `POST` | `/api/jobs` | Create a new job application |
 | `PUT` | `/api/jobs/{id}` | Update an existing job application |
 | `DELETE` | `/api/jobs/{id}` | Delete a job application |
+
+## Results
+<img width="353" height="410" alt="image" src="https://github.com/user-attachments/assets/2ca29b52-d6a5-4c5a-a977-93fc43167a7d" />
+
+<img width="723" height="360" alt="image" src="https://github.com/user-attachments/assets/d4a4741f-359c-4b30-bcaf-5b648b6328fb" />
+
+<img width="470" height="424" alt="image" src="https://github.com/user-attachments/assets/8d558d2e-9794-47dd-abb5-5259343fdabf" />
+
+<img width="739" height="381" alt="image" src="https://github.com/user-attachments/assets/fad2c241-cf7b-47c7-9d0a-c3769e7d31ab" />
+
 
 ---
 
